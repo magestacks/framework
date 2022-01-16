@@ -1,5 +1,6 @@
-## 工具篇
+## JVM
 
+1. [如果线上遇到了OOM，该如何解决？](https://github.com/acmenlt/framework/blob/main/docs/jvm/如果线上遇到了OOM，该如何解决？.md)
 
 ## 影子库压测
 
