@@ -1,13 +1,5 @@
 ## 前言
 
-- [【设计模式实战】策略模式](https://mp.weixin.qq.com/s/MP3uq4gGxMlec_drA_7GJQ)
-- [【设计模式实战】责任链模式](https://mp.weixin.qq.com/s/JC0VMp7l8XQTwKdS7xRIHA)
-- [【设计模式实战】Builder 模式](https://mp.weixin.qq.com/s/1IYbvnYPeCsAtALsuurBbg)
-- [【设计模式实战】代理模式](https://mp.weixin.qq.com/s/zwXfbdt5xvalUeo5534cKA)
-- [【设计模式实战】模版方法模式](https://mp.weixin.qq.com/s/IJu8B3HV9DGN9dc_WSRzFA)
-- [【设计模式实战】适配器模式](https://mp.weixin.qq.com/s/SVthRBp228ndpQ9xHqhoiw)
-- [【设计模式实战】...](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4NDU0Mjk5OQ==&action=getalbum&album_id=1633667008485441537#wechat_redirect)
-
 今天讲解一篇行为型设计模式，什么是行为型？行为型主要负责设计 **类或对象之间的交互**。工作中常用的观察者模式就是一种行为型设计模式
 
 最近在尝试重构之前写过的代码。在重新梳理过业务之后，发现已有的设计场景应该能够接入到设计模式，而且查看了代码的提交记录，更是坚定了此想法
