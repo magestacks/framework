@@ -5,7 +5,7 @@
 ## 场景问题
 
 1. [Snowflake（雪花算法），生产环境生成重复ID](https://github.com/acmenlt/framework/blob/main/docs/scene/Snowflake（雪花算法），生产环境生成重复ID.md)
-1. [线上问题复盘，异常信息消失的罪魁祸首JVM-Fast-Throw](https://github.com/acmenlt/framework/blob/main/docs/scene/线上问题复盘，异常信息消失的罪魁祸首JVM-Fast-Throw.md)
+2. [线上问题复盘，异常信息消失的罪魁祸首JVM-Fast-Throw](https://github.com/acmenlt/framework/blob/main/docs/scene/线上问题复盘，异常信息消失的罪魁祸首JVM-Fast-Throw.md)
 
 ## JVM
 
