@@ -10,29 +10,37 @@
 
 1. [如果线上遇到了OOM，该如何解决？](https://github.com/acmenlt/framework/blob/main/docs/jvm/如果线上遇到了OOM，该如何解决？.md)
 
-
 ## 设计模式
 
 1. [春节期间，我用责任链模式重构了业务代码](https://github.com/acmenlt/framework/blob/main/docs/design/春节期间，我用责任链模式重构了业务代码.md)
 2. [Spring、Guava框架如何设计观察者模式？](https://github.com/acmenlt/framework/blob/main/docs/design/Spring、Guava框架如何设计观察者模式？.md)
 3. [摊牌了！策略模式在项目设计中用的最多](https://github.com/acmenlt/framework/blob/main/docs/design/摊牌了！策略模式在项目设计中用的最多.md)
-4. [火遍全网的Hutool，如何使用Builder模式创建线程池](https://github.com/acmenlt/framework/blob/main/docs/design/火遍全网的Hutool，如何使用Builder模式创建线程池.md)
-5. [某厂面试：如何优雅使用SPI机制](https://github.com/acmenlt/framework/blob/main/docs/design/某厂面试：如何优雅使用SPI机制.md)
-
+4. [火遍全网的Hutool，如何使用Builder模式创建线程池？](https://github.com/acmenlt/framework/blob/main/docs/design/火遍全网的Hutool，如何使用Builder模式创建线程池.md)
+5. [某厂面试：如何优雅使用SPI机制？](https://github.com/acmenlt/framework/blob/main/docs/design/某厂面试：如何优雅使用SPI机制.md)
 
 ## 影子库压测
 
+TODO
 
 ## 蓝绿发布
 
+TODO
 
 ## 灰度发布
 
+TODO
 
 ## 分布式链路追踪
 
+TODO
 
 ## 异地多活
 
+TODO
 
 ## 源码篇
+
+### SpringCloud
+
+1. [花一个周末，掌握OpenFeign核心原理.md](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/花一个周末，掌握OpenFeign核心原理.md)
+2. [花一个周末，掌握SpringCloud-Ribbon核心原理.md](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/花一个周末，掌握SpringCloud-Ribbon核心原理.md)
