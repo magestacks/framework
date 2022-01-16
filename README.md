@@ -6,6 +6,8 @@
 
 1. [Snowflake（雪花算法），生产环境生成重复ID](https://github.com/acmenlt/framework/blob/main/docs/scene/Snowflake（雪花算法），生产环境生成重复ID.md)
 2. [线上问题复盘，异常信息消失的罪魁祸首JVM-Fast-Throw](https://github.com/acmenlt/framework/blob/main/docs/scene/线上问题复盘，异常信息消失的罪魁祸首JVM-Fast-Throw.md)
+3. [MySQL单表千万数据量，如何深分页优化？](https://github.com/acmenlt/framework/blob/main/docs/scene/MySQL单表千万数据量如何深分页优化.md)
+4. [如何保证使用MyBatis，查询千万数据量不发生内存溢出？](https://github.com/acmenlt/framework/blob/main/docs/scene/如何保证使用MyBatis，查询千万数据量不发生内存溢出？.md)
 
 ## JVM
 
@@ -41,11 +43,16 @@ TODO
 
 ## 分布式事务
 
-1. [彻底掌握分布式事务2PC、3PC模型.md](https://github.com/acmenlt/framework/blob/main/docs/distributed/彻底掌握分布式事务2PC、3PC模型.md)
+1. [彻底掌握分布式事务2PC、3PC模型](https://github.com/acmenlt/framework/blob/main/docs/distributed/彻底掌握分布式事务2PC、3PC模型.md)
 
 ## 源码篇
 
 ### SpringCloud
 
-1. [花一个周末，掌握OpenFeign核心原理.md](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/花一个周末，掌握OpenFeign核心原理.md)
-2. [花一个周末，掌握SpringCloud-Ribbon核心原理.md](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/花一个周末，掌握SpringCloud-Ribbon核心原理.md)
+1. [花一个周末，掌握OpenFeign核心原理](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/花一个周末，掌握OpenFeign核心原理.md)
+2. [花一个周末，掌握SpringCloud-Ribbon核心原理](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/花一个周末，掌握SpringCloud-Ribbon核心原理.md)
+
+### Mybatis
+
+1. [心态崩了呀！Mybatis 动态代理这么玩？！](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/心态崩了呀！Mybatis动态代理这么玩？！.md)
+2. [Mybatis核心架构设计分享](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/Mybatis核心架构设计分享.md)
