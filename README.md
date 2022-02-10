@@ -56,3 +56,8 @@ TODO
 
 1. [心态崩了呀！Mybatis 动态代理这么玩？！](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/心态崩了呀！Mybatis动态代理这么玩？！.md)
 2. [Mybatis核心架构设计分享](https://github.com/acmenlt/framework/blob/main/docs/sourcecode/Mybatis核心架构设计分享.md)
+
+
+## 读书笔记
+
+1. [《高效阅读法》本田直之](https://github.com/acmenlt/framework/blob/main/docs/booknote)
