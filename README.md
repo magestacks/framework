@@ -60,4 +60,4 @@ TODO
 
 ## 读书笔记
 
-1. [《高效阅读法》本田直之](https://github.com/acmenlt/framework/blob/main/docs/booknote)
+1. [《高效阅读法》本田直之](https://github.com/acmenlt/framework/blob/main/docs/booknote/高效阅读法.md)
