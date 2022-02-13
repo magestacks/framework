@@ -20,6 +20,7 @@
 3. [摊牌了！策略模式在项目设计中用的最多](https://github.com/acmenlt/framework/blob/main/docs/design/摊牌了！策略模式在项目设计中用的最多.md)
 4. [火遍全网的Hutool，如何使用Builder模式创建线程池？](https://github.com/acmenlt/framework/blob/main/docs/design/火遍全网的Hutool，如何使用Builder模式创建线程池.md)
 5. [某厂面试：如何优雅使用SPI机制？](https://github.com/acmenlt/framework/blob/main/docs/design/某厂面试：如何优雅使用SPI机制.md)
+6. [图解设计模式：身份认证场景的应用](https://github.com/acmenlt/framework/blob/main/docs/design/图解设计模式：身份认证场景的应用.md)
 
 ## 影子库压测
 
